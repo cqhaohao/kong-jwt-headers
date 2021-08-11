@@ -1,4 +1,4 @@
-FROM kong:1.5
+FROM kong:1.5.1-ubuntu
 MAINTAINER haohao
 
 
